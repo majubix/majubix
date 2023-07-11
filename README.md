@@ -14,18 +14,6 @@
  
   
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majubix&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
- 
- 
-<a href="https://github.com/majubix/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majubix&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/majubix/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majubix&repo=convoychat" />
-</a>
-
  
 
 
