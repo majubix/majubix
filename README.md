@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cb56f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Maria+Júlia+👋;I+Graduated+Analisys+and+Systems+Development;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
@@ -22,4 +22,4 @@
  
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
