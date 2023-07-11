@@ -6,11 +6,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=majubix&bg_color=d1e9ff&color=3b4fe8&line=4c689e&point=0a208f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majubix&theme=tokyonight_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majubix&?theme=-tokyonight_icons=true)
 
 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majubix&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=1E90FF" />
+  
  
  
   
