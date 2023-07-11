@@ -5,6 +5,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=majubix&bg_color=d1e9ff&color=3b4fe8&line=4c689e&point=0a208f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+username=majubix&show_iconstrue&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=1E90FF" alt="Maria Júlia github stats" /> 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=majubix&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=1E90FF" alt="Maria Júlia github stats" /> 
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=majubix&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=1E90FF" alt="Maria Júlia github stats" /> 
