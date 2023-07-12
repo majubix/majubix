@@ -40,7 +40,6 @@
 ##
 
 <img align="center" alt="Majugif" height="300" width="400" src="https://i.pinimg.com/originals/40/05/b4/4005b49eff8c815df7e3f23ce638fe8c.gif">
-<img align="center" alt="Majugif" height="300" width="400" src="https://cdn.picrew.me/shareImg/org/202307/338224_iRVHPyCf.png">
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
