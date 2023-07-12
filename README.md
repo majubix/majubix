@@ -36,8 +36,8 @@
   <a href="https://www.linkedin.com/in/mariajuliarocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-https://i.pinimg.com/originals/40/05/b4/4005b49eff8c815df7e3f23ce638fe8c.gif
-<img align="center" alt="Majugif" height="30" width="40" src="https://i.pinimg.com/originals/40/05/b4/4005b49eff8c815df7e3f23ce638fe8c.gif">
+
+<img align="center" alt="Majugif" height="100" width="100" src="https://i.pinimg.com/originals/40/05/b4/4005b49eff8c815df7e3f23ce638fe8c.gif">
  
 
 
