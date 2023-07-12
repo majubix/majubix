@@ -6,10 +6,16 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=majubix&bg_color=d1e9ff&color=3b4fe8&line=4c689e&point=0a208f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majubix&theme=tokyonight_icons=true)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majubix&layout=compact)](https://github.com/majubix/github-readme-stats)
- 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=majubix&theme=dracula&card_width=200" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majubix&layout=compact&langs_count=8&card_width=200&theme=dracula" />
+</a>
+
+
  
  
  ##
