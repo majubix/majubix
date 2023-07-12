@@ -5,12 +5,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=majubix&bg_color=d1e9ff&color=3b4fe8&line=4c689e&point=0a208f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majubix&theme=tokyonight_icons=true)
-
+</a>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majubix&layout=compact)](https://github.com/majubix/github-readme-stats)
  
- </div>
+ 
  
  ##
   
