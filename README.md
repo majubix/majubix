@@ -9,9 +9,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majubix&theme=tokyonight_icons=true)
 
 
-<div align="center"> 
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majubix&layout=compact)](https://github.com/majubix/github-readme-stats)
-  />
  
  
   
