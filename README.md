@@ -11,9 +11,6 @@
 </div>
 
 
-<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?majubix={majubix}">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?majubix={majubix}" />
-</a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majubix&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
