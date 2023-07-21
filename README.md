@@ -5,7 +5,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=majubix&bg_color=d1e9ff&color=3b4fe8&line=4c689e&point=0a208f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
