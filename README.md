@@ -2,11 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Maria+Júlia+👋;I+Graduated+Analisys+and+Systems+Development;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
+##
+
 <div align="center">  
   <img align="center" alt="Majugif" height="300" width="400" src="https://i.pinimg.com/originals/40/05/b4/4005b49eff8c815df7e3f23ce638fe8c.gif"/> 
   <img src="https://github-profile-trophy.vercel.app/?username=majubix&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=majubix&bg_color=1a191a&color=3f53ee&line=496dfd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
