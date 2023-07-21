@@ -6,7 +6,6 @@
 
 <div align="center">  
   <img align="center" alt="Majugif" height="300" width="400" src="https://i.pinimg.com/originals/40/05/b4/4005b49eff8c815df7e3f23ce638fe8c.gif"/> 
-  <img src="https://github-profile-trophy.vercel.app/?username=majubix&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
 ##
@@ -36,7 +35,10 @@
   <a href="https://www.linkedin.com/in/mariajuliarocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+ ##
+<div align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=majubix&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
