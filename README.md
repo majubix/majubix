@@ -11,11 +11,6 @@
 </div>
 
 
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majubix&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
-</a>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=majubix&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
