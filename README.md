@@ -22,14 +22,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=majubix&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
-
+<div align="center"> 
   ### Skills:
           
-<div style="display: inline_block"><br align="center">
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-          
+</div>          
   ##
  
 <div align="center"> 
