@@ -5,9 +5,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=majubix&bg_color=1a191a&color=3f53ee&line=496dfd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?majubix={majubix}">
   <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?majubix={majubix}" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=majubix&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
 </a>
