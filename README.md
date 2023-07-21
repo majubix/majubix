@@ -22,6 +22,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=majubix&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
+##
+
+### Skills:
+
 <div align="center"> 
    Skills:
           
@@ -31,6 +35,8 @@
 </div>
 </div>          
   
+
+##
  
 <div align="center"> 
   <a href="https://www.youtube.com/@eumajurocha" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
