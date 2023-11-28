@@ -25,14 +25,6 @@
 ##
 
 
-<div align="center"> 
-
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=My+Skills+🚀)](https://git.io/typing-svg)
-          
-<div style="display: inline_block"><br>
-  <img align="center" alt="maju-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="maju-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 </div>          
   
 
