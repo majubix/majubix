@@ -57,7 +57,17 @@
 
 </div>
 
-<div align="left"> 
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+
+
+</div>
+
+<div align="center">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
@@ -69,11 +79,9 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/8623cedb-1695-4834-8615-22d8a36a9aec">
 
-
 </div>
 
-<br>
-<br> 
+
 <br>
 <br>
 <br>
@@ -120,7 +128,4 @@
 <br> 
 
 
-
-
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=92FD70&height=120&section=footer"/>
